@@ -1,4 +1,4 @@
-package go_dag
+package dag
 
 var (
 	_ Vertexer[interface{}]    = (*storableVertex[interface{}])(nil)

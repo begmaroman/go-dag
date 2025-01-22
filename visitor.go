@@ -1,4 +1,4 @@
-package go_dag
+package dag
 
 import (
 	"sort"

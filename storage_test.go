@@ -1,4 +1,4 @@
-package go_dag
+package dag
 
 type testVertex[V string] struct {
 	WID string `json:"i"`

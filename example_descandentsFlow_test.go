@@ -1,8 +1,10 @@
-package go_dag_test
+package dag_test
 
 import (
 	"fmt"
 	"sort"
+
+	"github.com/begmaroman/go-dag"
 )
 
 func ExampleDAG_DescendantsFlow() {

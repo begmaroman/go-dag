@@ -1,8 +1,10 @@
-package go_dag_test
+package dag_test
 
 import (
 	"crypto/sha256"
 	"fmt"
+
+	"github.com/begmaroman/go-dag"
 )
 
 type foobar struct {

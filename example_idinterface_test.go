@@ -1,7 +1,9 @@
-package go_dag_test
+package dag_test
 
 import (
 	"fmt"
+
+	"github.com/begmaroman/go-dag"
 )
 
 type idVertex struct {

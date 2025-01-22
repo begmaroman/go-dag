@@ -1,5 +1,5 @@
 // Package dag implements directed acyclic graphs (DAGs).
-package go_dag
+package dag
 
 import (
 	"fmt"
