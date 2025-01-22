@@ -87,7 +87,7 @@ func main() {
 
 - **Transitive Reduction**:
   ```go
-d.ReduceTransitively()
+  d.ReduceTransitively()
   ```
 
 ## Example
